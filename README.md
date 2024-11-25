@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xeirel</h1>
 <h3 align="center">A backend-frontend developer from Türkiye.</h3>
 
-- 🔭 I’m currently working on **Swing Cube & Tarot And Astrology**
+- 🔭 I’m currently working on **NO STRANGERS ON STEAM**
 
 - ⚡ Fun fact **I like editing videos on After Effects 2020**
 
