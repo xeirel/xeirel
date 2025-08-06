@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xeirel/xeirel/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">I'm the creator of No Strangers, and I'm currently working on No Strangers 2.0 and Digital Market Simulator.<br><br>Things I love: C#, making games with Unity Engine (painful sometimes), reverse-engineering games (just for learning), editing videos, almost every type of music (excluding pop, drill, new-age rap, or any other new shitty music), watching shitposts, playing FPS games, cats, Japanese cars, rainy weather, drinking beer, trolling my friends with ragebait, helping people and animals, and anime.<br><br>Things I hate: Network coding, Unity HDRP optimization, Unity script compile & domain reload process, summer, myself (sometimes), disrespectful people, arrogant people who think they’re the sh*t, those with the “you don’t have to like it but you must respect it” mindset, the Python language, Apple products and software, fanaticism, and VAC (Valve Anti-Cheat). I hate so many things — I just can't list them all.</p>
